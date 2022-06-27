@@ -1,7 +1,7 @@
 - 👋 Hi, I'm shristi  Tiwari
 - 👀 I’m interested in computing mathematics and data analysis stuff.
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on some project related to data analysis
+- 🌱 I’m currently learning MATLAB 
+- 💞️ I’m looking to collaborate on some project related to coputing(numerical analysis)
 - 📫 How to reach me ...
 
 <!---
